@@ -3,7 +3,7 @@
 		<header>
 			<div class="logo">
 				<span>made with</span>
-				<img src="./assets/logo.png">
+				<img src="../src/assets/logo.png">
 			</div>
 		</header>
 		<main>
